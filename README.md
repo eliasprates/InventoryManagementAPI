@@ -10,7 +10,6 @@ Este projeto é uma simples API de gerenciamento de inventário desenvolvida em 
 - [Como Usar](#como-usar)
 - [Configurações do Projeto](#configurações-do-projeto)
 - [Rotas](#rotas)
-- [Testes](#testes)
 - [Contribuições](#contribuições)
 - [Licença](#licença)
 
@@ -24,10 +23,8 @@ Este projeto é uma simples API de gerenciamento de inventário desenvolvida em 
 
 - Gerenciamento de produtos e categorias
 - Controle de estoque
-- Autenticação JWT
 - Operações CRUD (Create, Read, Update, Delete) para produtos e categorias
 - Documentação via Swagger
-- Testes de unidade com xUnit
 
 ## Como Usar
 
@@ -102,4 +99,4 @@ Contribuições são bem-vindas! Se você quiser sugerir melhorias ou adicionar 
 
 ## Licença
 
-Este projeto está licenciado sob a licença Apache 2.0. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença Apache 2.0. Consulte o arquivo [LICENSE](eliasprates/InventoryManagementAPI?tab=Apache-2.0-1-ov-file) para mais detalhes.
