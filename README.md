@@ -99,4 +99,4 @@ Contribuições são bem-vindas! Se você quiser sugerir melhorias ou adicionar 
 
 ## Licença
 
-Este projeto está licenciado sob a licença Apache 2.0. Consulte o arquivo [LICENSE](eliasprates/InventoryManagementAPI?tab=Apache-2.0-1-ov-file) para mais detalhes.
+Este projeto está licenciado sob a licença Apache 2.0.
